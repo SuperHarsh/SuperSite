@@ -148,9 +148,8 @@ const elts = {
 
 const texts = [
   " Coder",
+  " Developer",
   " Front End Developer",
-  " Full Stack Developer",
-  " C++ Developer"
 ];
 
 const morphTime = 1;
